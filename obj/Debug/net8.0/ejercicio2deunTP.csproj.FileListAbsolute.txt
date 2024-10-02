@@ -1,0 +1,14 @@
+C:\Users\mateo\source\repos\ejercicio2deunTP\bin\Debug\net8.0\ejercicio2deunTP.exe
+C:\Users\mateo\source\repos\ejercicio2deunTP\bin\Debug\net8.0\ejercicio2deunTP.deps.json
+C:\Users\mateo\source\repos\ejercicio2deunTP\bin\Debug\net8.0\ejercicio2deunTP.runtimeconfig.json
+C:\Users\mateo\source\repos\ejercicio2deunTP\bin\Debug\net8.0\ejercicio2deunTP.dll
+C:\Users\mateo\source\repos\ejercicio2deunTP\bin\Debug\net8.0\ejercicio2deunTP.pdb
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.AssemblyInfo.cs
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.dll
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\refint\ejercicio2deunTP.dll
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.pdb
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ejercicio2deunTP.genruntimeconfig.cache
+C:\Users\mateo\source\repos\ejercicio2deunTP\obj\Debug\net8.0\ref\ejercicio2deunTP.dll
